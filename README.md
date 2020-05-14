@@ -1,5 +1,8 @@
 # TensorFlow
+This guide aims to introduce readers to Tensorflow by illustrating the many applications of Tensorflow.
+Readers may prefer to read in sequential order to build a ground up understanding of the subject matter.
 
+# Table of Contents
 1. MNIST --> simple neural network
 2. Transfer Learning --> Embedded vector (text)
 3. Regression --> continuous variable output

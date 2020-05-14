@@ -7,3 +7,4 @@ Readers may prefer to read in sequential order to build a ground up understandin
 * Transfer Learning --> Embedded vector (text)
 * Regression --> continuous variable output
 * IRIS_csv --> how to import .csv from Kaggle
+* CIFAR_cnn --> implement basic convolution neural network

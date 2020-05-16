@@ -16,3 +16,7 @@ Readers may prefer to read in sequential order to build a ground up understandin
 * Reinforcement Learning --> Q-learning with Atari breakout
 * Generative Adversarial Networks --> facial recognition 
 
+# 2. Plug and Play Models
+* You Only Look Once --> computer vision/object detection
+
+
